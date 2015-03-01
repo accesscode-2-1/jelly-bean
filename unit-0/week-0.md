@@ -75,7 +75,9 @@
 ### Think piece discussion (team leader has prepared answers and guides discussion)
 
 * What are 2 things you took from this think piece?
+*   The importance of networking and push though hardships,perseverance. 
 * How does this think piece relate to access code?
+*   cause sometimes coding can be fustrating and perseverance is a must have to become the master programmer!
 
 ### TODOs
 
