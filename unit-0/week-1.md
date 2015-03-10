@@ -9,7 +9,7 @@
 
 **Hanbi Choi**
 
-* This week's medium post: 
+* This week's medium post: https://medium.com/@personabe1q84/first-post-de72aee9b195
 * Last week’s goal: Making a habit of coding 30 minutes a day
 * What went well (what goals did you meet?) Despite the weather, Hans came to class ^_^
 * What could have gone better (what were some challenges you faced? Did you overcome them? How?) The weather could have been better
