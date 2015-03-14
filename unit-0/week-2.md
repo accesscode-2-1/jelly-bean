@@ -1,7 +1,7 @@
 # Week 2 Pod Meeting
 
 * Date: 03-14-15
-* Attendants:
+* Attendants: Tasha, Ramona, Hanbi, Jose, Anthony
 * Team Leader: Jose
 * Think Piece: Grit
 
