@@ -1,9 +1,9 @@
 # Week 2 Pod Meeting
 
-* Date: 03-14-15
+* Date: 03-21-15
 * Attendants: Tasha, Ramona, Hanbi, Jose, Anthony
-* Team Leader: Jose
-* Think Piece: Grit
+* Team Leader: Ramona
+* Think Piece: https://medium.com/ios-os-x-development/how-i-a-designer-learned-to-code-and-released-an-app-in-4-months-219d7c1b8df1
 
 ### Retrospective
 
