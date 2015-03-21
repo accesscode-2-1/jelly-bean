@@ -9,7 +9,7 @@
 
 **Ramona**
 
-* This week's medium post:http://ramonaharrison.github.io/jekyll/pixyll/technical/git/github/2015/03/09/how-i-built-my-blog/
+* This week's medium post: http://ramonaharrison.github.io/accesscode/java/random/ascii/2015/03/20/generating-night-sky/
 * Last week’s goal: 
 * - keep up on the homework
 * What went well (what goals did you meet?)
@@ -23,7 +23,7 @@
 
 **Tasha**
 
-* This week's medium post: https://medium.com/@tashy444/object-orientated-programming-6e542727c488
+* This week's medium post: https://medium.com/@tashy444/programming-the-mind-876760039cc7
 * Last week’s goal:
 * - Code for ten minutes per day
 * What went well (what goals did you meet?)
@@ -37,7 +37,7 @@
 
 **Anthony**
 
-* This week's medium post: https://medium.com/@fermin_anthony/tracing-code-49070b6823e3
+* This week's medium post: https://medium.com/@fermin_anthony/shortcuts-that-saved-my-sanity-a20d7a4bfc05
 * Last week’s goal:
 * - program as much as possible
 * What went well (what goals did you meet?)
@@ -51,7 +51,7 @@
 
 **Hanbi**
 
-* This week's medium post: https://medium.com/@personabe1q84/through-the-looking-glass-824d2363ffce
+* This week's medium post: 
 * Last week’s goal:
 * - work on social interactions and coding
 * What went well (what goals did you meet?)
@@ -65,7 +65,7 @@
 
 **Jose**
 
-* This week's medium post:  https://medium.com/@AyoJoanks/speaking-of-grit-8143baab7167
+* This week's medium post:  https://medium.com/@AyoJoanks/life-is-beautiful-35422ea814de
 * Last week’s goal:
 * - manage time better
 * What went well (what goals did you meet?)
