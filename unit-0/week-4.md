@@ -1,6 +1,6 @@
-# Week 2 Pod Meeting
+# Week 4 Pod Meeting
 
-* Date: 03-21-15
+* Date: 03-28-15
 * Attendants: Tasha, Ramona, Hanbi, Jose, Anthony
 * Team Leader: Tasha
 * Think Piece: http://www.ted.com/talks/kathryn_schulz_on_being_wrong
@@ -80,12 +80,11 @@
 ### Think piece discussion (team leader has prepared answers and guides discussion)
 
 * What are 2 things you took from this think piece?
-* - inspiring - even as experienced as he was, he was still struggling
-* - excitement / struggle / solution cycle is relatable
-* - pick a project that matters to you / solved a problem you need solved
+* - culture: people respect you more if you say you don't know something
+* - coyote analogy was great
 * How does this think piece relate to access code?
-* - its about coding
-* - excitement / struggle / solution cycle
+* - to be more open minded and accepting to peoples opinions in class
+* - to be more mindful of the code your writing and run it constantly to see if you are wrong
 
 
 ### TODOs
