@@ -3,7 +3,7 @@
 * Date: 05-09-15
 * Attendants: Tasha, Ramona, Hanbi, Jose, Anthony
 * Team Leader: Tasha
-* Think Piece: http://qz.com/382041/the-uss-most-marginalized-are-disrupting-power-structures-by-learning-how-to-code/
+* Think Piece: http://braythwayt.com/2015/01/20/learned-helplessness.html
 
 ### Retrospective
 
