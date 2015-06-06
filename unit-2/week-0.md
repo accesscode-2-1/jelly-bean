@@ -1,13 +1,14 @@
-*Ramona Harrison
-*Tasha Smith
+*Ramona 
+*Tasha 
 *Anthony
 *Jose
+*Hans
  
 # Weekly Pod Meeting Template
 
 * Date: [6/6/15]
-* Attendants: []
-* Team Leader: [UPDATE THIS]
+* Attendants: [Jose, Ramona, Anthony, Tasha]
+* Team Leader: [Tasha]
 
 ### This Week's Goals
 
