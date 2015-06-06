@@ -14,7 +14,7 @@
 
 * Submit all the homework on time
 * Master all the material covered this week
-* **Additional Goal(s) set by the pod** [UPDATE THIS]
+* 
 
 ### Weekly Retrospective
 
