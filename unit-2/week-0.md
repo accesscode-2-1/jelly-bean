@@ -31,7 +31,7 @@ Communicate with each other.
 
 ### Next Week
 
-* Next Week’s team leader: [UPDATE THIS]
+* Next Week’s team leader: Jose
 
 * Next Week's pod goals:
   1. submit homework on time
